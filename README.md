@@ -1,5 +1,5 @@
 # Java-HackerRank
-Day1/n
+Day1\
 1.Welcome to Java!
 2.Java Stdin and Stdout I
 3.Java Stdin and Stdout II
