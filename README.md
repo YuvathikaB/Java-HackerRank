@@ -1,5 +1,5 @@
 # Java-HackerRank
-Day1\
+DAY 1\
 1.Welcome to Java!\
 2.Java Stdin and Stdout I\
 3.Java Stdin and Stdout II\
@@ -10,7 +10,7 @@ Day1\
 8.Java End-of-file\
 9.Java Static Initializer Block\
 10.Java Int to String\
-Day2\
+DAY 2\
 11.Java Date and Time\
 12.Java Currency Formatter\
 13.Java Strings Introduction\
