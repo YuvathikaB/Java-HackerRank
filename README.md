@@ -1,5 +1,5 @@
 # Java-HackerRank
-#DAY 1\
+**DAY 1**\
 1.Welcome to Java!\
 2.Java Stdin and Stdout I\
 3.Java Stdin and Stdout II\
@@ -10,7 +10,7 @@
 8.Java End-of-file\
 9.Java Static Initializer Block\
 10.Java Int to String\
-#DAY 2\
+**DAY 2**\
 11.Java Date and Time\
 12.Java Currency Formatter\
 13.Java Strings Introduction\
@@ -21,7 +21,7 @@
 18.Java String Tokens\
 19.Pattern Syntax Checker\
 20.Valid Username Regular Expression\
-#DAY 3\
+**DAY 3**\
 21.Java Primality Test\
 22.Java BigInteger\
 23.Java 1D Array\
@@ -32,7 +32,7 @@
 28.Java Map\
 29.Java Hashset\
 30.Java Generics\
-#DAY 4\
+**DAY 4**\
 31.Java Sort\
 32.Java BitSet\
 33.Java Inheritance I\
@@ -43,7 +43,7 @@
 38.Java Method Overriding 2 (Super Keyword)\
 39.Java Instanceof keyword\
 40.Java Iterator\
-DAY 5\
+**DAY 5**\
 41.Java Exception Handling (Try-catch)\
 42.Java Exception Handling\
 43.Java Varargs - Simple Addition\
@@ -54,7 +54,7 @@ DAY 5\
 48.Java Regex\                            
 49.Java Regex 2 - Duplicate Words\
 50.Tag Content Extractor\
-#DAY 6
+**DAY 6**\
 51.Java BigDecimal\
 52.Java 1D Array (Part 2)\
 53.Java Stack\
